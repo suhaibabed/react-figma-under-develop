@@ -1,0 +1,18 @@
+body
+{
+    background: #F6F6F6;
+}
+.image-map{
+    width:60%;
+    margin-top: 50px;
+
+}
+
+.brand{
+    width: 80%;
+    margin-top: 50px;
+
+}
+.brandone{
+    display: flex;
+}
