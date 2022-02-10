@@ -60,17 +60,16 @@
     font-weight: bold;
     border: 1px solid #F53855;
     border-radius:25px ;
+    transition: 0.7s;
 }
 
 .sign-up:hover{
     background-color: #F53855;
     color: #fff;
     -webkit-box-shadow: 2px 9px 22px -1px rgba(245,56,85,1);
--moz-box-shadow: 2px 9px 22px -1px rgba(245,56,85,1);
-box-shadow: 2px 9px 22px -1px rgba(245,56,85,1);
-
+    -moz-box-shadow: 2px 9px 22px -1px rgba(245,56,85,1);
+    box-shadow: 2px 9px 22px -1px rgba(245,56,85,1);
 }
-
 .navbar{
     margin-top: 10px;
 }

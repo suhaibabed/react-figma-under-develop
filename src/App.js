@@ -1,6 +1,7 @@
 import react from 'react';
 
 //style
+import "bootstrap/dist/css/bootstrap.min.css";
 import './App.css';
 
 //component
@@ -9,9 +10,10 @@ import About from './component/About';
 import Feature from './component/Feature';
 import ChoosYourPlan from './component/ChooseYourPlan';
 import HugeGlobal from './component/HugeGlobal';
-import TrustedText from './component/TrustedText';
 import PreFooter from './component/PreFooter';
 import Footer from './component/Footer';
+import Customers from './component/Customers';
+
 
 
 function App() {
@@ -22,7 +24,7 @@ function App() {
       <Feature/>
       <ChoosYourPlan />
       <HugeGlobal />
-      <TrustedText/>
+      <Customers />
       <PreFooter />
       <Footer/>
       
